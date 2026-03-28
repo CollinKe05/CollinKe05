@@ -5,7 +5,7 @@
 - 📫 How to reach me :naohdog@foxmail.com or yongxike05@gmail.com
 
 <div align="center">
-    <img src="https://github-readme-stats-six-kappa.vercel.app/api/top-langs/?username=CollinKe05&layout=compact" alt="Top Langs" />    
+    <img src="https://github-readme-stats-six-kappa.vercel.app/api/top-langs/?username=CollinKe05&layout=compact&show_icons=true&count_private=true&hide=bibtex%20style,markdown" alt="Top Langs" />
     <img src="https://github-readme-stats-six-kappa.vercel.app/api?username=CollinKe05&show_icons=true&theme=default&line_height=30" alt="GitHub Stats" />
 </div>
 <!---
